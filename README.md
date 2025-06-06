@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnathrock11github&label=Profile%20views&color=0e75b6&style=flat" alt="amarnathrock11github" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,React JS**
+- 🌱 I’m currently learning new things**
 
 - 📫 How to reach me **amarnath11052003@gmail.com**
 
